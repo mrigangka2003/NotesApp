@@ -1,4 +1,4 @@
-Thank you for providing the project link. I'll customize the README.md file for your Notes App project with icons and include Google authentication as well.
+
 
 ---
 
